@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\brillmark.trainne"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "brillmark.trainee2"
+	}
+}
